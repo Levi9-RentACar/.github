@@ -1,6 +1,6 @@
 # Levi9 - Rent A Car
 
-##Branching
+## Branching
 - main
 - develop
 - feature_<trello_card_id>_<feature_description>
